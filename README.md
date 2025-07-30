@@ -92,11 +92,11 @@ Proyecto/
 ├── EDA/
 │   ├── DATA/
 │   │   ├── RAW/                        # ***Datos originales sin procesar***
-│   │   │   ├── 2020-Jan.csv
+│   │   │   ├── 2020-Jan.csv https://drive.google.com/file/d/1YWoHk6yLsc2qvqCvvkMCMmrRE0hvhmyQ/view?usp=drive_link
 │   │   │   └── cscpopendata.csv
 │   │   ├── OUTPUT/                     # ***Datos limpios y combinados***
 │   │   │   ├── cscpopendata_limpio.csv
-│   │   │   └── datos_unificados.csv
+│   │   │   └── datos_unificados.csv https://drive.google.com/file/d/1q9mP3ue250CZxYCCfquK_UFjS6sIIe55/view?usp=drive_link
 │   │
 │   ├── NOTEBOOK/                       # ***Notebooks de análisis***
 │   │   ├── 01-analisis_preliminar.ipynb
